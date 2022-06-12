@@ -59,7 +59,7 @@
         ?>
         <br>
         <br>
-        <form class="offset-2" action="" method="post">
+        <form class="offset-2" action="updatedata.php" method="post">
     <div class="row">
     <div class="form-group col-md-3">
       <b>Roll_No :</b> <input type="text" class="form-control" name="rno" value="<?php echo $row['rno']?>" required>
